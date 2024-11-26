@@ -1,0 +1,42 @@
+.header{
+    height: 200px;
+    /* width: 300px; */
+    /* background-image: url('cat\ 2024-11-25\ 213848.jpg'); */
+    /* background-image: url('../images/4.jpeg'); */
+    background-image: url('../images/more images/3659197.jpg');
+    /* background-repeat: no-repeat; */
+    /* background-repeat: repeat-x; */
+    /* background-repeat: repeat-y; */
+    /* background-size: cover; */
+    background-size: contain;
+    /* background-size: 200px; */
+}
+
+h3{
+    font-size: 30px;
+    text-decoration: overline;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.blog{
+    margin: 40px;
+    border: 10px solid tomato;
+    box-shadow: 5px 5px 10px blueviolet;
+}
+
+.second{
+    /* display: none; */
+    /* visibility: hidden; */
+}
+
+.span{
+    border: 2px solid blueviolet;
+    /* display: block; */
+    /* height: 200px; */
+    /* margin: 20px; */
+    /* display: inline-block; */
+}
+
+li{
+    display: inline;
+}
