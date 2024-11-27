@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+}
+.third{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    font-weight: bold;
+    margin: 20px;
+    text-align: justify;
+    color: darkred;
+    padding: 10px;
+    background-color: lightcoral;
+    border-top: 20px solid darkred;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px darkred;
+    height: fit-content;
+}
